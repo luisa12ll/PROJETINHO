@@ -104,7 +104,7 @@ Ou
 python3 biblioteca.py
 ```
 **⚠️ Observação:**
-Caso o código apresente algum erro durante a execução, verifique se todos os arquivos necessários estão presentes (principalmente os arquivos .json no diretório db_files), e também se a versão do Python está correta.
+Caso o código apresente algum erro durante a execução, verifique se todos os arquivos necessários estão presentes (principalmente os arquivos .json no diretório db_files),não se esqueça de alterar o caminho da logo  e também se a versão do Python está correta.
 
 Se precisar de mais assistência ou encontrar algum erro específico, basta enviar a mensagem de erro para que eu possa ajudar!
 
