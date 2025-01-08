@@ -1,0 +1,74 @@
+{
+  "0": {
+    "ID": "0",
+    "Nome": "Pedrinho",
+    "Série": "9",
+    "Turno": "Manha",
+    "Idade": "10",
+    "Contato": "8",
+    "Endereço": "Rua 1 Bairro 2"
+  },
+  "1": {
+    "ID": "1",
+    "Nome": "Aquila Menezes",
+    "Série": "9",
+    "Turno": "Tarde",
+    "Idade": "20",
+    "Contato": "88 99",
+    "Endereço": "Rua Bairro Cidade Numero"
+  },
+  "2": {
+    "ID": "2",
+    "Nome": "Pedenrique",
+    "Série": "9",
+    "Turno": "Manha",
+    "Idade": "20",
+    "Contato": "9",
+    "Endereço": "Rua 3"
+  },
+  "3": {
+    "ID": "3",
+    "Nome": "Wellington Almeida Silva",
+    "Série": "9",
+    "Turno": "Tarde",
+    "Idade": "20",
+    "Contato": "88888888888",
+    "Endereço": "Rua 1 Bairro 1 Numero 1"
+  },
+  "4": {
+    "ID": "4",
+    "Nome": "Maria Helena",
+    "Série": "9",
+    "Turno": "Manha",
+    "Idade": "20",
+    "Contato": "0000000000",
+    "Endereço": "Rua Bairro Cidade "
+  },
+  "5": {
+    "ID": "5",
+    "Nome": "Luisa De Souza Ferreira",
+    "Série": "Engenharia",
+    "Turno": "Diurno",
+    "Idade": "19",
+    "Contato": "luisasouzalinda90@gmail.com",
+    "Endereço": "Qr 222 Brasilia Df"
+  },
+  "6": {
+    "id": "6",
+    "nome": "Camila Silva Cavalcante",
+    "idade": "19",
+    "serie": "Faculdade",
+    "turno": "Diurno",
+    "contato": "00000",
+    "endereco": "Residencial Gamagiore"
+  },
+  "7": {
+    "id": "7",
+    "nome": "Geovanna Umbelino",
+    "idade": "21",
+    "serie": "Faculdade",
+    "turno": "Diruno",
+    "contato": "Geovannaumbelino@gmail.com",
+    "endereco": "Residencial Alvorada"
+  }
+}

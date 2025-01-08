@@ -1,0 +1,58 @@
+{
+  "123": {
+    "Título": "Caçador de feitiço",
+    "Gênero": "Fantasia",
+    "Autor": "Well",
+    "Editora": "Sal",
+    "Quantidade": "100",
+    "Numeração": "123"
+  },
+  "345": {
+    "numeracao": "345",
+    "titulo": "Divinos ivais",
+    "genero": "Fantasia",
+    "autor": "Rebecca ross",
+    "editora": "Alt",
+    "quantidade": 52
+  },
+  "111": {
+    "numeracao": "111",
+    "titulo": "Amei",
+    "genero": "Romance",
+    "autor": "Thiago b",
+    "editora": "Miss",
+    "quantidade": 14
+  },
+  "98": {
+    "Título": "Inglês",
+    "Gênero": "Educação",
+    "Autor": "Well",
+    "Editora": "Well",
+    "Quantidade": "100",
+    "Numeração": "98"
+  },
+  "41": {
+    "Título": "Assim que acaba",
+    "Gênero": "Romance",
+    "Autor": "Coolen",
+    "Editora": "Sem",
+    "Quantidade": "1",
+    "Numeração": "41"
+  },
+  "1110": {
+    "numeracao": "1110",
+    "titulo": "Como eu era antes de você ",
+    "genero": "Romance",
+    "autor": "Jojo moyer ",
+    "editora": "Editors instricita",
+    "quantidade": 10
+  },
+  "440": {
+    "numeracao": "440",
+    "titulo": "Sempre nós",
+    "genero": "Suspense",
+    "autor": "Desconhecido",
+    "editora": "Desconhecido",
+    "quantidade": 20
+  }
+}
