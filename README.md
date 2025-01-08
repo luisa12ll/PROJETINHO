@@ -16,7 +16,12 @@ O sistema foi desenvolvido a partir do conceito de **orientação a objetos** em
 
 O **Sistema de Biblioteca** não apenas simplifica o trabalho dos bibliotecários, mas também promove a organização do acervo e a melhoria na gestão de recursos educacionais, tendo como foco a otimização do tempo e a redução de erros humanos, proporcionando maior agilidade e confiabilidade no processo de empréstimos e devoluções.
 
-## Planejamento:
+## 📅 Planejamento:
+Antes de iniciar o desenvolvimento do Sistema de Biblioteca, foi realizado um planejamento detalhado para garantir que todas as funcionalidades fossem atendidas de maneira eficaz e organizada. 
+
+Você pode acessar o planejamento completo do projeto através do link abaixo:
+
+[Link para o Planejamento do Projeto](https://trello.com/invite/b/677d738fe9494be008ea96a7/ATTIf36d0a9a6d192fe7a9be9d63ab63782e639AE82D/projetinho)
 
 ## 🎯 Objetivo e Funcionalidades 
 
@@ -98,14 +103,15 @@ Ou
 ```bash
 python3 biblioteca.py
 ```
-**Observação**
+**⚠️ Observação:**
 Caso o código apresente algum erro durante a execução, verifique se todos os arquivos necessários estão presentes (principalmente os arquivos .json no diretório db_files), e também se a versão do Python está correta.
 
 Se precisar de mais assistência ou encontrar algum erro específico, basta enviar a mensagem de erro para que eu possa ajudar!
 
 ## 🫂 Colaboradores:
-
-
+* **Luísa de Souza Ferreira**
+ 
+<img src="https://github.com/user-attachments/assets/5e753ee5-bdf1-49c9-84b3-7973f22af4ed" alt="SB" width="200"/>
 
 
 
