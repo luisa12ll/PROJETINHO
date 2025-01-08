@@ -72,7 +72,7 @@ Se não tiver o Python 3.10, você pode baixá-lo [aqui](https://www.python.org/
 Primeiro, clone o repositório do projeto para a sua máquina. Para isso, abra o terminal (ou prompt de comando no Windows) e execute o comando abaixo:
 
 ```bash
-git clone http:
+git clone https://github.com/luisa12ll/PROJETINHO.git
 ```
 **3. Instale as dependências:**
 No terminal, navegue até o diretório onde o projeto foi baixado e execute o seguinte comando para instalar todas as dependências:
